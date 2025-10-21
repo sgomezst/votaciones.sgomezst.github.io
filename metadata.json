@@ -1,0 +1,5 @@
+{
+  "name": "Reto Anónimo",
+  "description": "Una plataforma de retos anónimos donde los participantes pueden enviar texto o imágenes. Los usuarios registrados pueden votar por las mejores participaciones basándose en criterios personalizables por el administrador, quien controla las fases del reto y revela al ganador.",
+  "requestFramePermissions": []
+}
